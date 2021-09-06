@@ -1,8 +1,8 @@
 # AnimeChan App
 
 ## OverView
-I created the simple app with next.js and API. From this app, you can get an anime name, a character and his quote.
-
+I created the simple app with next.js and API. From this app, you can get an anime name, a character and his quote.     
+To create in your local, clone this and excute blow commands.
 ## API
 From https://github.com/RocktimSaikia/anime-chan
 
