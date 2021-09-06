@@ -30,7 +30,7 @@ const Header = () => {
       <AppBar position="static">
         <Toolbar>
           <Typography variant="h3" className={styles.title}>
-              <a href={"/"}>Let's watch the code</a>
+              <a href={"/"}>Watch the code</a>
           </Typography>
         </Toolbar>
       </AppBar>
