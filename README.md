@@ -2,7 +2,8 @@
 
 ## OverView
 I created the simple app with next.js and API. From this app, you can get an anime name, a character and his quote.     
-To create in your local, clone this and excute blow commands.
+To create in your local, clone this and excute blow commands.     
+Deploy: https://anime-chan-jouu2ok87-kazuz.vercel.app/
 ## API
 From https://github.com/RocktimSaikia/anime-chan
 
