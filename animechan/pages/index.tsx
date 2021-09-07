@@ -87,7 +87,7 @@ const Home: NextPage = () => {
 
       <footer className={styles.footer}>
         <a
-          href=""
+          href="https://github.com/ike-kazu/AnimeChan"
           target="_blank"
           rel="noopener noreferrer"
         >
